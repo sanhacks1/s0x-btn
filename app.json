@@ -1,0 +1,18 @@
+{
+ "name": "s0x-btn <img src=x onerror=alert(1)>",
+ "description": "desc <b>bold</b> **md** <img src=x onerror=alert(2)>",
+ "website": "javascript:alert(document.domain)",
+ "repository": "javascript:alert(3)",
+ "logo": "javascript:alert(4)",
+ "success_url": "//s0x.invalid/x",
+ "keywords": [
+  "<img src=x onerror=alert(5)>"
+ ],
+ "env": {
+  "S0X": {
+   "description": "env <img src=x onerror=alert(6)> [link](javascript:alert(7))",
+   "value": "\"><img src=x onerror=alert(8)>",
+   "required": false
+  }
+ }
+}
